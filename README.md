@@ -65,7 +65,7 @@ Dette minimumet skal finnes i alle deltakende miljøer.
 
 ### Beregning og analyse
 
-- HPC for sekvenseringsdata (somatisk, germline, humant og mikrobiologisk)
+- HPC for bearbeiding av sekvenseringsdata (somatisk, germline, humant og mikrobiologisk)
 - SLURM-basert arbeidsflyt og støtte for etablerte orkestreringsverktøy som NextFlow, snakemake o.l. 
 
 ## Vår forpliktelse
