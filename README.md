@@ -12,7 +12,7 @@ Denne fragmenteringen skal vi avvikle.
 
 Når hver region bygger alt selv:
 
-- blir verktøy, metoder og kompetanse vanskelig å dele
+- blir metoder, kompetnase, data og verktøy vanskelig å dele
 - blir drift en ressurstyv for fagmiljøer som skal levere analyse og utvikling
 - blir kvalitet, tilgjengelighet og beredskap mer sårbar enn nødvendig
 
@@ -27,11 +27,11 @@ Vi bygger en nasjonal, samarbeidsdrevet plattformmodell der regionene kan:
 
 ## Prinsipper
 
-- Likeverdighet: Helsetilbud skal ikke avhenge av bosted.
 - Samarbeid: Vi er sterkere og bedre sammen enn hver for oss.
-- Standardisering: Felles grensesnitt gjør tjenester flyttbare og robuste.
-- Bærekraft: Riktig kompetanse brukes på riktig oppgave.
+- Likeverdighet: Helsetilbud skal ikke avhenge av bosted.
 - Åpenhet: Metoder og løsninger skal kunne forstås, deles og forbedres.
+- Standardisering: Felles grensesnitt gjør tjenester flyttbare og robuste.
+- Samsvar: Riktig kompetanse brukes på riktig oppgave.
 
 ## Vårt felles minimum
 
@@ -46,7 +46,7 @@ Dette minimumet skal finnes i alle deltakende miljøer.
 - CI/CD
 - artefaktregister (docker, tarballs og tilsvarende)
 - meldingstjeneste for samhandling (for eksempel Zulip)
-- utviklingsmiljø (VM eller devcontainerbasert)
+- utviklingsmiljø (VM, devcontainer)
 
 ### Deployment og drift
 
