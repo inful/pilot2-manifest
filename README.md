@@ -12,7 +12,7 @@ Denne fragmenteringen skal vi avvikle.
 
 Når hver region bygger alt selv:
 
-- blir metoder, kompetnase, data og verktøy vanskelig å dele
+- blir metoder, kompetanse, data og verktøy vanskelig å dele
 - blir drift en ressurstyv for fagmiljøer som skal levere analyse og utvikling
 - blir kvalitet, tilgjengelighet og beredskap mer sårbar enn nødvendig
 
