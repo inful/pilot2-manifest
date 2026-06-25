@@ -20,7 +20,7 @@ Når hver region bygger alt selv:
 
 Vi bygger en nasjonal, samarbeidsdrevet plattformmodell der regionene kan:
 
-- dele metoder, kompetanse og verktøy
+- dele metoder, kompetanse, data og verktøy
 - utvikle og forbedre tjenester sammen
 - fungere som backup for hverandre når det er nødvendig
 - dele data kontrollert mellom helseregioner og fagmiljøer
