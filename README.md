@@ -6,7 +6,7 @@ Vi arbeider for det samme målet: trygge, robuste og likeverdige helsetjenester 
 I dag er miljøene våre spredt, små og ofte alene om drift av kritisk infrastruktur.
 Dette gir ulik praksis, ulik modenhet og ulikt pasienttjenestetilbud avhengig av geografi.
 
-Denne fragmenteringen skal vi avvikle.
+Denne fragmenteringen skal vi fjerne.
 
 ## Utfordring
 
