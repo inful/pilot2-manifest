@@ -80,4 +80,4 @@ og ved behov videre til eksterne skytjenester.
 - fra sårbar drift til robust felleskapasitet
 - fra fragmenterte løsninger til delte byggesteiner
 
-Dette er ikke bare et teknisk initiativ - det er et felles løfte om kvalitet, beredskap og rettferdighet i norsk presisjonsmedisin.
+Dette er ikke bare et teknisk initiativ - det er et felles løft for kvalitet, beredskap og rettferdighet i norsk presisjonsmedisin.
