@@ -41,23 +41,23 @@ Dette minimumet skal finnes i alle deltakende miljøer.
 ### Utvikling og samarbeid
 
 - Forge med:
-  - versjonskontroll (Git)
+  - versjonskontroll (e.g. Git)
   - issue- og prosjektstyring
 - CI/CD
 - artefaktregister (docker, tarballs og tilsvarende)
-- meldingstjeneste for samhandling (for eksempel Zulip)
+- meldingstjeneste for kommunikasjon og samhandling
 - utviklingsmiljø (VM, devcontainer)
 
 ### Deployment og drift
 
 - Kubernetes
 - container-register
-- metrikk, logging og tracing (OpenTelemetry-kompatibelt)
-- block storage (predefinerte storage classes)
-- object storage (S3-kompatibelt)
-- databaser (PostgreSQL, MySQL, NoSQL-alternativ)
-- message broker (NATS, RabbitMQ eller Kafka)
-- secrets management (for eksempel Kubeseal/SOPS)
+- metrikk, logging og tracing
+- block storage
+- object storage
+- databaser (e.g. SQL)
+- message broker
+- secrets management
 - authentication/authorization med felles prinsipper
 - ingress/egress med automatisert sertifikathåndtering for HTTPS
 - backup og gjenoppretting
@@ -66,7 +66,7 @@ Dette minimumet skal finnes i alle deltakende miljøer.
 ### Beregning og analyse
 
 - HPC for bearbeiding av sekvenseringsdata (somatisk, germline, humant og mikrobiologisk)
-- SLURM-basert arbeidsflyt og støtte for etablerte orkestreringsverktøy som NextFlow, snakemake o.l. 
+- SLURM-basert arbeidsflyt og støtte for etablerte orkestreringsverktøy
 
 ## Vår forpliktelse
 
